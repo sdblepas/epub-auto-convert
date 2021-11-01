@@ -1,6 +1,9 @@
 # epub-auto-convert
 auto convert epub on specific location and add to calibre
 
+## TO DO
+Automate change paths in script 
+remove user name from path and add $USER.
 ### watcher.sh
 
 This script is waiting for new epub to be added to a downlod direcyory 
