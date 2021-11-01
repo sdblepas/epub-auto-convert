@@ -3,6 +3,7 @@ auto convert epub on specific location and add to calibre
 
 ## TO DO
 Automate change paths in script 
+
 remove user name from path and add $USER.
 ### watcher.sh
 
